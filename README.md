@@ -71,7 +71,7 @@ The goal was to create an Amazon-like storefront by using Node.js and MySQL.
 [***The Manager user flow video file***](./assets/video/mananger.mp4)
 
 * BamazonSupervisor.js
-![alt text](./images/supervisor.jpg)
+![alt text](./assets/images/supervisor.jpg)
 [***The Supervisor user flow video file***](./assets/video/supervisor.mp4)
 
 ## Technologies used
